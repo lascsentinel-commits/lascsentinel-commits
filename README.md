@@ -2,7 +2,7 @@
 # LASC Sentinel 
 # Lab Automated Systems Code Sentinel 
 
-´´´´text
+´´´text
 ###########################################################################################
 #                                                                                         #
 #   LASCLASC                  LASCLASC            LASCLASCLASCLASC    LASCLASCLASCLASC    #
