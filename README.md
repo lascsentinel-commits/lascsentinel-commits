@@ -1,5 +1,6 @@
 ## Hi there
-# LASC Sentinel | Lab Automated Systems Code Sentinel 
+# LASC Sentinel 
+Lab Automated Systems Code Sentinel 
 
 ```text
 ###########################################################################################
