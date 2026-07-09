@@ -18,11 +18,14 @@
 #   :: LAB AUTOMATED SYSTEMS CODE SENTINEL ::                                             #
 #   :: Sistemas automatizados de laboratorio Code Sentinel ::                             #
 #=========================================================================================#
-#  [+] LASC Free : Open_power_for_everyone_Tools,scripts-&-conocimientos_libres--Público  #
-#  [+] LASC Pro  : Efficiency without limits. Automatización avanzada, POS, bots |        #
-#                   One-click configuration. Despliegue masivo y automatizado --Privado   #
+#  [+] LASC Free     : Open_power_for_everyone. Tools,scripts &                           #
+#                      conocimientos_libres --Público                                     #
+#                                                                                         #
+#  [+] LASC Pro      : Efficiency without limits. Automatización avanzada, POS, bots |    #
+#                      One-click configuration. Despliegue masivo&automatizado --Privado  #
+#                                                                                         # 
 #  [+] LASC Sentinel : Integrated Security & Automation. SOC, pentesting, defensa and     # 
-#                       privacy --Privado/publico-on-free                                #
+#                      privacy --Privado/publico-on-free                                  #
 #-----------------------------------------------------------------------------------------#
 #  >>> Powered by LASC Sentinel | LASC lo hace por ti - it does for you                     #
 ###########################################################################################
