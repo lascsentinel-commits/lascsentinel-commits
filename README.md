@@ -1,8 +1,7 @@
 ## Hi there
 # LASC Sentinel 
 # Lab Automated Systems Code Sentinel 
-
-´´´text
+```text
 ###########################################################################################
 #                                                                                         #
 #   LASCLASC                  LASCLASC            LASCLASCLASCLASC    LASCLASCLASCLASC    #
@@ -19,39 +18,35 @@
 #   :: LAB AUTOMATED SYSTEMS CODE SENTINEL ::                                             #
 #   :: Sistemas automatizados de laboratorio Code Sentinel ::                             #
 #=========================================================================================#
-#  [+] LASC Free  : Open power for everyone. Tools, scripts, y conocimientos libres. | Público |
-        #
-#  [+] LASC Pro    : Efficiency without limits. Automatización avanzada, POS, bots. | One-click configuration. Despliegue masivo y automatizado. | Privado |
-        #                                 
-#  [+] LASC Sentinel : Integrated Security & Automation. SOC, pentesting, defensa and privacy. | Privado/publico-en-free |
-        #
+#  [+] LASC Free     : Open power for everyone                                            #
+#  [+] LASC Pro      : Efficiency without limits                                          #
+#  [+] LASC Auto     : One-click configuration                                            #
+#  [+] LASC Sentinel : Integrated Security & Automation                                   #
 #-----------------------------------------------------------------------------------------#
 #  >>> Powered by LASC Sentinel | LASC lo hace por ti - it does for you                     #
 ###########################################################################################
+```
 
- Infrastructure & Automation Engineer
-Infrastructure and cybersecurity specialist. Focused on transforming manual processes into intelligent workflows.
+**Infrastructure & Automation Engineer**  
+Infrastructure and cybersecurity specialist. Turning manual processes into intelligent workflows.
 
-Especialista en infraestructura crítica y ciberseguridad. Enfocado en transformar procesos manuales en flujos de trabajo inteligentes. 
+*Especialista en infraestructura crítica y ciberseguridad. Transformando procesos manuales en flujos de trabajo inteligentes.*
 
-                        
+---
+
 ## OS Research Lab — Sistemas a investigar
 
 ### Hacking / Pentesting / Ofensiva
 `Fedora Security Lab` `REMnux` `Santoku` `NodeZero` `Tsunami` `DracOS` `Cyborg Linux`
 
 ### Seguridad Defensiva / Blue Team
-`Security Onion` `SIFT Workstation` `SELKS` `PALADIN` `CAINE` `Kali Purple`
-`Deft Zero` `Buscador` `CSI Linux` `Tsurugi Linux` `Flare VM`
+`Security Onion` `SIFT Workstation` `SELKS` `PALADIN` `CAINE` `Kali Purple` `Deft Zero` `Buscador` `CSI Linux` `Tsurugi Linux` `Flare VM`
 
 ### Cloud / Virtualización / Server
-`Proxmox VE` `XCP-ng` `TrueNAS Scale` `AlmaLinux` `Rocky Linux`
-`OpenEuler` `Talos Linux` `Flatcar Linux` `NixOS` `FreeBSD`
+`Proxmox VE` `XCP-ng` `TrueNAS Scale` `AlmaLinux` `Rocky Linux` `OpenEuler` `Talos Linux` `Flatcar Linux` `NixOS` `FreeBSD`
 
 ### Especializadas
-`Tails` `Whonix` `Qubes OS` `Subgraph OS` `PureOS`
-`SystemRescue` `GParted Live` `Clonezilla` `ShredOS`
-`Raspberry Pi OS` `OpenWrt` `PfSense`
+`Tails` `Whonix` `Qubes OS` `Subgraph OS` `PureOS` `SystemRescue` `GParted Live` `Clonezilla` `ShredOS` `Raspberry Pi OS` `OpenWrt` `PfSense`
 
 ---
 
@@ -62,19 +57,18 @@ Especialista en infraestructura crítica y ciberseguridad. Enfocado en transform
 | **Hacking** | Python, Bash, C, Ruby, Perl, Lua, PowerShell, SQL |
 | **Infraestructura** | Bash, PowerShell, Go, Rust, YAML, HCL, Dockerfile, Ansible |
 | **IA / LLM** | Python, C++, CUDA, Rust, Mojo, Julia |
-| **Cloud / DevOps** | Go, Rust, Python, HCL, YAML, Typescript |
+| **Cloud / DevOps** | Go, Rust, Python, HCL, YAML, TypeScript |
 
 ---
 
-## LLMs para 4GB VRAM 
-demostracion de sus capacidades para tareas de mediana complejidad con poco contexto.
+## LLMs para 4GB VRAM (GTX 1050)
+*Demostración de capacidades para tareas de mediana complejidad con poco contexto.*
 
 | Tamaño | Modelos |
 |--------|---------|
 | **7B (Q4)** | Qwen2.5-Coder, DeepSeek-Coder, CodeLlama, CodeGemma, StarCoder2, SQLCoder, Mistral, CodeQwen, WaveCoder, Granite |
 | **3-4B** | Phi-3-medium, Phi-3-mini, Llama-3.2-3B, Stable Code 3B |
 | **1-2B** | TinyLlama, Qwen2.5-Coder-1.5B, DeepSeek-Coder-1.3B |
-
 
 ---
 
@@ -84,100 +78,74 @@ demostracion de sus capacidades para tareas de mediana complejidad con poco cont
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
-| **⚡ GipSik-Unifier** | Agente unificado todo-en-uno: STT (Whisper) + TTS (Edge/ElevenLabs) + LLM multi-proveedor + Browser Automation + RAG + Skills. CLI, GUI, API y Bot WhatsApp. Failover automático entre 11 proveedores de IA | FastAPI, Streamlit, Groq, Gemini, Whisper, Ollama, 11 APIs |
-| **🤖 LASC-BotWSP** | Chatbot WhatsApp Business con IA multi-proveedor. Gemini + Groq + Ollama Cloud con failover. Respuestas automáticas, catálogo, presupuestos | Node.js, whatsapp-web.js, Gemini, Groq, Ollama |
-| **🔧 Macro Automation Skill** | Skill para GipSik que graba/reproduce macros con pausas, variables ({{correo}}, {{portapapeles}}), decisiones IA y detección inteligente de elementos. Ideal para automatizar flujos web repetitivos | Python, xdotool, pynput, JSON, GipSik Skills API |
-| **🛡️ LASC-Sentinel Ops** | Sistema de monitoreo con Zabbix + LLM para gestión de incidentes. Detección → análisis con IA → ticket automático en OSticket → registro en CMDB | Python, Zabbix, OSticket, Gemini, Ollama, SQLite |
+| **⚡ GipSik-Unifier** | Agente unificado: STT + TTS + LLM multi-proveedor + Browser Automation + RAG. CLI, GUI, API y Bot WhatsApp. Failover entre 11 proveedores de IA | FastAPI, Streamlit, Groq, Gemini, Whisper, Ollama |
+| **🤖 LASC-BotWSP** | Chatbot WhatsApp Business multi-proveedor con failover automático. Respuestas, catálogo, presupuestos | Node.js, whatsapp-web.js, Gemini, Groq, Ollama |
+| **🔧 Macro Automation** | Skill para GipSik que graba/reproduce macros con pausas, variables `{{correo}}`, decisiones IA y detección inteligente | Python, xdotool, pynput, JSON |
+| **🛡️ LASC-Sentinel Ops** | Monitoreo Zabbix + LLM para gestión de incidentes. Detección → análisis IA → ticket OSticket → CMDB | Python, Zabbix, OSticket, Gemini, Ollama |
 
 ### 🛠️ POS & Gestión Empresarial
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
-| **📱 LASC-ServiceTech** | POS y gestión técnica para laboratorios de microelectrónica. Órdenes de reparación con flujo de estados, inventario, impresión térmica ESC/POS, integración con bot WhatsApp | Streamlit, SQLite, ESC/POS, WhatsApp-Web.js |
-| **🌐 EcosystemServiceTech** | Ecosistema completo POS: panel admin, catálogo dinámico, clientes, notificaciones, voz, Docker. Escalable para cadenas de servicio técnico | Streamlit, Flask, SQLite, Docker, Node.js |
-| **🍽️ LASC-DhamitPOS** | POS restaurante completo: comandas digitales, pantalla cocina, caja, dashboard dueño, control de usuarios con roles. Auto-sync entre sucursales por SCP, time-bomb de seguridad | Streamlit, SQLite, ESC/POS, SCP, Docker |
-| **📦 LASC-InventProyect** | Gestión de inventario para proyectos de construcción. Control de herramientas, materiales, tareas por obra. Ideal para PyMEs constructoras | Python, SQLite, Streamlit, JSON |
+| **📱 LASC-ServiceTech** | POS y gestión técnica para laboratorios de microelectrónica. Órdenes, inventario, impresión térmica | Streamlit, SQLite, ESC/POS |
+| **🌐 EcosystemServiceTech** | Ecosistema POS completo: admin, catálogo, clientes, Docker | Python, Flask, Docker |
+| **🍽️ LASC-DhamitPOS** | POS restaurante: comandas, cocina, caja, dashboard. Auto-sync entre sucursales | Streamlit, SQLite, ESC/POS, Docker |
+| **📦 LASC-InventProyect** | Inventario para proyectos de construcción | Python, SQLite, JSON |
 
-### 🏠 IoT & Domótica
-
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| **🔊 ALARMA LASC-S +voz** | Sistema de alarma con reconocimiento de voz (STT) y síntesis de voz (TTS). Instalación automatizada con Piper TTS multi-idioma. Alertas inteligentes por voz | Python, Piper TTS, Whisper, Bash, Systemd |
-
-### 🎨 CNC & Diseño
+### 🏠 IoT & Domótica · 🎨 CNC · 🌍 Turismo · 🎵 Multimedia
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
-| **🖼️ AutoFotoNestingNC** | Sistema de nesting CNC por foto. Fotografiás la lámina, detecta contorno automático (HSV), calibra escala, optimiza nesting y genera G-code. Soporta importar diseños custom | Python, OpenCV, Shapely, FastAPI, CNC G-code |
-
-### 🌍 Web & Turismo
-
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| **✈️ CupoVisiónViajera** | App de viajes para gestionar cuotas y destinos. Flutter multi-plataforma con backend en Node.js | Flutter, Dart, Node.js |
-
-### 🎵 Multimedia
-
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| **🎵 MP3 Converter Auto** | Detecta URLs de YouTube del portapapeles, descarga y convierte a MP3 con 1 clic. Organización por géneros. Interfaz Tkinter minimalista | Python, yt-dlp, ffmpeg, Tkinter |
-| **⏱️ Delay-Video-Cheese** | Herramienta para crear timelapses de maduración de queso con cámara IP. Capture programada, compilación de video | Python, OpenCV, ffmpeg |
+| **🔊 ALARMA LASC-S +voz** | Alarma con STT/TTS. Piper TTS multi-idioma, alertas por voz | Python, Piper, Whisper, Bash |
+| **🖼️ AutoFotoNestingNC** | Nesting CNC por foto. Detección de contorno, calibración, generación de G-code | Python, OpenCV, Shapely, FastAPI |
+| **✈️ CupoVisiónViajera** | App de viajes multi-plataforma | Flutter, Dart, Node.js |
+| **🎵 MP3 Converter** | Descarga y convierte YouTube a MP3 con 1 clic | Python, yt-dlp, ffmpeg, Tkinter |
+| **⏱️ Delay-Video-Cheese** | Timelapses de maduración con cámara IP | Python, OpenCV, ffmpeg |
 
 ### 🔒 Seguridad & Infraestructura
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
-| **🐳 dockerhub-nessus** | Despliegue de Nessus Vulnerability Scanner en Docker con persistencia de datos. Named volumes + bind mounts para logs | Docker, Docker Compose, Nessus, Bash |
-| **🔑 API Key Manager** | Sistema centralizado de gestión de API keys con macros automatizados. Grabación de sesiones multi-proveedor, detección de clipboard, template con placeholders | Python, xdotool, pynput, JSON |
-| **📊 LASC-ManagerSSH** | Gestión de conexiones SSH multi-máquina. Distribución de claves, sincronización entre laptops Tailscale | Bash, SSH, Tailscale, SCP |
+| **🐳 dockerhub-nessus** | Nessus Vulnerability Scanner en Docker | Docker, Bash |
+| **🔑 API Key Manager** | Gestión centralizada de API keys con macros automatizados | Python, JSON |
+| **📊 LASC-ManagerSSH** | Gestión SSH multi-máquina | Bash, SSH, Tailscale |
 
-### 🔮 Proyectos Futuros (OS Research Lab)
+### 🔮 Futuros (OS Research Lab)
 
 | Proyecto | Área | Objetivo |
 |----------|------|----------|
-| **🛡️ LASC-RedTeam** | Pentesting | Toolkit ofensivo basado en Kali + BlackArch. Scripts de automatización de exploits, escaneo, pivoting |
-| **🔵 LASC-BlueTeam** | Defensa | SOC portable con Security Onion + Kali Purple. Detección, respuesta, hardening automatizado |
-| **🌐 LASC-Firewall** | Redes | Router/firewall inteligente con PfSense + OpenWrt. VPN, QoS, adblock, detección de intrusiones |
-| **📡 LASC-OSINT** | Investigación | Plataforma OSINT con Buscador + CSI Linux. Automatización de recolección de inteligencia |
-| **💾 LASC-Forensic** | Forense | Laboratorio forense con CAINE + SIFT + Tsurugi. Adquisición, análisis, reportes automatizados |
-| **☁️ LASC-Cloud** | Cloud | IaC con Terraform + Ansible + Talos Linux. Despliegue automático de infraestructura cloud |
+| **🛡️ LASC-RedTeam** | Pentesting | Toolkit ofensivo: exploits, escaneo, pivoting |
+| **🔵 LASC-BlueTeam** | Defensa | SOC portable: detección, respuesta, hardening |
+| **🌐 LASC-Firewall** | Redes | Router/firewall con PfSense + OpenWrt |
+| **📡 LASC-OSINT** | Investigación | OSINT con Buscador + CSI Linux |
+| **💾 LASC-Forensic** | Forense | Lab forense con CAINE + SIFT + Tsurugi |
+| **☁️ LASC-Cloud** | Cloud | IaC con Terraform + Ansible + Talos |
 
 ---
 
 ## Stack Tecnológico
 
 ### Sistemas Operativos
-`Kali Linux` `BlackArch` `Parrot OS` `Oracle Linux` `Ubuntu` `Xubuntu` `ArchLinux`
-`Windows 10/11` `Windows Server` `Proxmox VE` `FreeBSD`
+`Kali Linux` `BlackArch` `Parrot OS` `Oracle Linux` `Ubuntu` `Xubuntu` `ArchLinux` `Windows` `Windows Server` `Proxmox VE` `FreeBSD`
 
 ### Lenguajes
-`Python` `Bash` `PowerShell` `JavaScript` `Node.js` `Go` `Rust` `C` `C++` `CUDA`
-`AHK` `Ruby` `Perl` `Lua` `SQL` `YAML` `HCL` `Dockerfile`
+`Python` `Bash` `PowerShell` `JavaScript` `Node.js` `Go` `Rust` `C` `C++` `CUDA` `AHK` `Ruby` `Perl` `Lua` `SQL` `YAML` `HCL` `Dockerfile`
 
-### Frameworks & Plataformas
-`FastAPI` `Streamlit` `Flask` `Flutter` `Node.js` `Express`
-`SQLite` `PostgreSQL` `Elasticsearch` `Redis`
-`Docker` `Docker Compose` `Kubernetes` `Terraform` `Ansible`
-`Tailscale` `WireGuard` `Nginx` `SCP` `SSH`
+### Frameworks
+`FastAPI` `Streamlit` `Flask` `Flutter` `Node.js` `Express` `SQLite` `PostgreSQL` `Elasticsearch` `Redis`
 
-### APIs & Automatización
-`OpenAI API` `Gemini API` `Groq API` `Anthropic API` `DeepSeek API`
-`OpenRouter` `Cloudflare Workers` `Cohere` `Mistral AI` `Cerebras`
-`ElevenLabs ` `Edge-TTS` `Whisper STT` `Piper TTS local`
-`yt-dlp` `ffmpeg` `xdotool` `pynput`
+### DevOps & Redes
+`Docker` `Docker Compose` `Kubernetes` `Terraform` `Ansible` `Tailscale` `WireGuard` `Nginx` `SCP` `SSH`
+
+### APIs & AI
+`Gemini` `Groq` `OpenAI` `Anthropic` `DeepSeek` `OpenRouter` `Cloudflare` `Cohere` `Mistral` `Cerebras` `ElevenLabs` `Edge-TTS` `Whisper` `Piper TTS`
 
 ### LLMs Locales (4GB VRAM)
-`Qwen2.5-Coder` `DeepSeek-Coder` `CodeLlama` `CodeGemma` `StarCoder2`
-`SQLCoder` `Mistral` `Llama 3.2` `Phi-3` `TinyLlama` `Stable Code`
+`Qwen2.5-Coder` `DeepSeek-Coder` `CodeLlama` `CodeGemma` `StarCoder2` `SQLCoder` `Mistral` `Llama 3.2` `Phi-3` `TinyLlama` `Stable Code`
 
-### Infraestructura & Monitoreo
-`Zabbix` `OSticket` `Nessus` `Elastic Stack`
-`Docker` `Proxmox` `TrueNAS` `PfSense`
-
-### Seguridad & Pentesting
-`Nmap` `Metasploit` `Burp Suite` `Wireshark` `John the Ripper`
-`Hydra` `SQLmap` `Aircrack-ng` `Hashcat` `Gobuster`
+### Infraestructura & Seguridad
+`Zabbix` `OSticket` `Nessus` `Elastic Stack` `Proxmox` `TrueNAS` `PfSense` `Nmap` `Metasploit` `Burp Suite` `Wireshark` `John the Ripper` `Hydra` `SQLmap` `Aircrack-ng` `Hashcat` `Gobuster`
 
 ---
 
-
+> **Powered by LASC Sentinel | LASC lo hace por ti — it does for you**
